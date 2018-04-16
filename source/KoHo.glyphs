@@ -1642,9 +1642,8 @@ note = F;
 unicode = 0046;
 },
 {
-color = 4;
 glyphname = G;
-lastChange = "2018-04-16 16:26:14 +0000";
+lastChange = "2018-04-16 18:20:48 +0000";
 layers = (
 {
 anchors = (
@@ -11067,7 +11066,7 @@ unicode = 0078;
 },
 {
 glyphname = y;
-lastChange = "2018-04-10 14:14:53 +0000";
+lastChange = "2018-04-16 18:20:24 +0000";
 layers = (
 {
 anchors = (
@@ -11304,7 +11303,6 @@ nodes = (
 width = 548;
 }
 );
-leftMetricsKey = u;
 note = y;
 unicode = 0079;
 },
